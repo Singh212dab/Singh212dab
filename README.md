@@ -41,6 +41,16 @@ communication and collective bargaining. I like to meet people and interact with
 <img align="left" width="47%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&layout=compact"/>
 </details>
 
+<details>
+  <summary>Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
+
 
 
 
