@@ -20,7 +20,7 @@
 
 
 
-### :zap: GitHub Stats
+### GitHub Stats
 <img align="left" width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=default&show_icons=true"/>
 <img align="left" width="47%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&layout=compact"/>
 
