@@ -46,7 +46,6 @@ communication and collective bargaining. I like to meet people and interact with
   
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 </details>
 
