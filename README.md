@@ -19,11 +19,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 
-
-### GitHub Stats
-<img align="left" width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=default&show_icons=true"/>
+ ## Github Stats
+<details>
+  <summary>Tap to Check</summary>
+<img align="left" width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=default&show_icons=true"/> 
 <img align="left" width="47%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&layout=compact"/>
+</details>
 
-  
+
 
 
