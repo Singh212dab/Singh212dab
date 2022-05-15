@@ -15,5 +15,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=default&show_icons=true"/>
+<img align="left" width="47%" height="160" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=default&show_icons=true"/>
 <img align="left" width="47%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&layout=compact"/>
