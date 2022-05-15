@@ -7,6 +7,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - 📫 You can reach me at singh212dab@gmail.com
 - ⚡ Hobbies: I love to read books and play Football/Badminton
+
 ### I'm good at 👇
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -14,8 +15,15 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
+
+
+### :zap: GitHub Stats
 <img align="left" width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=default&show_icons=true"/>
 <img align="left" width="47%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&layout=compact"/>
+
+  
 
 
