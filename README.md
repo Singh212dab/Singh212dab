@@ -10,4 +10,4 @@
 - 📚 I'm good at Java,MySQl,HTML etc.
 
 
-[![Dabblu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=radical&show_icons=true)](https://github.com/Singh212dab/github-readme-stats)
+
