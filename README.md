@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Learn more about web3
 - 📫 You can reach me at singh212dab@gmail.com
 - ⚡ Hobbies: I love to read books and play Football/Badminton
-- I'm good at 👇
+### I'm good at 👇
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
