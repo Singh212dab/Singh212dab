@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/Singh212dab/SIngh212dab/main/wave.gif" width="30px">,I'm Dabblu 
+### Hi there👋, I'm Dabblu 
 
 <h2 align="center"> 👨‍💻 Who Am I</h2>
 <p align="center">
