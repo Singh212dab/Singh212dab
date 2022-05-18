@@ -39,8 +39,8 @@ communication and collective bargaining. I like to meet people and interact with
  ## Github Stats
 <details>
   <summary>Tap to Check</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=default&show_icons=true"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&layout=compact"/>
+<img align="center" width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=default&show_icons=true"/> 
+<img align="center" width="47%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&layout=compact"/>
 </details>
 
 
