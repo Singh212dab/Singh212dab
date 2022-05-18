@@ -1,4 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Dabblu 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Welcome to Dabblu's profile!
+
 
 <h2 align="center"> 👨‍💻 Who Am I</h2>
 <p align="center">
@@ -29,8 +30,7 @@ communication and collective bargaining. I like to meet people and interact with
  <br> <br>
 
  ## 🔥 Streak stats
-  
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 <p align="center">
   <a href="https://github.com/DSingh212dab/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dabblu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Singh212dab&theme=monokai-metallian&hide_border=true"/>
@@ -46,13 +46,13 @@ communication and collective bargaining. I like to meet people and interact with
 
  ## Github Stats
 <details>
-  <summary>Tap to Check</summary>
+  <summary>Tap to Check Stats</summary>
 <img align="center" width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=radical&show_icons=true"/> 
 <img align="center" width="47%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&theme=radical&layout=compact"/>
 </details>
 
 <details>
-  <summary>Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activities</summary>
   <br/>
 
 <!--START_SECTION:activity-->
@@ -64,9 +64,6 @@ communication and collective bargaining. I like to meet people and interact with
 <!--END_SECTION:activity-->
 </details>
 
-
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <p align="center">
 <a href="https://github.com/Singh212dab/github-readme-activity-graph"><img alt="Dabblu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Singh212dab&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
