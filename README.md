@@ -51,12 +51,12 @@ communication and collective bargaining. I like to meet people and interact with
 <img align="center" width="47%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&theme=radical&layout=compact"/>
 </details>
 
-<details>
+<!--details>
   <summary>Recent GitHub Activities</summary>
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection/pull/33) in [Singh212dab/Minimalistic-Wallpaper-Collection](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection)
+<!--1. 🎉 Merged PR [#33](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection/pull/33) in [Singh212dab/Minimalistic-Wallpaper-Collection](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection)
 2. 💪 Opened PR [#33](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection/pull/33) in [Singh212dab/Minimalistic-Wallpaper-Collection](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection)
 3. 🎉 Merged PR [#101](https://github.com/Singh212dab/readme-typing-svg/pull/101) in [Singh212dab/readme-typing-svg](https://github.com/Singh212dab/readme-typing-svg)
 4. 🎉 Merged PR [#102](https://github.com/Singh212dab/readme-typing-svg/pull/102) in [Singh212dab/readme-typing-svg](https://github.com/Singh212dab/readme-typing-svg)
