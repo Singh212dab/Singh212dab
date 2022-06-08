@@ -10,7 +10,6 @@ communication and collective bargaining. I like to meet people and interact with
 
 - 🔭 I’m currently working on ServiceNow
 - 🌱 I’m learning almost everything 🤣
-- 👯 I’m looking to collaborate with other developers
 - 🤔 I’m here to learn and explore myself
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Hobbies: I love to read books and play Football/Badminton
