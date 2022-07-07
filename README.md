@@ -8,7 +8,7 @@ communication and collective bargaining. I like to meet people and interact with
   </samp>
   <br> <br>
 
-- 🔭 I’m currently working on ServiceNow
+- 🔭 I’m currently working on ServiceNow platform
 - 🌱 I’m learning almost everything 🤣
 - 🤔 I’m here to learn and explore myself
 - 🥅 2022 Goal: Learn more about web3
