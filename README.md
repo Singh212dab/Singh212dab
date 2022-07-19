@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Welcome to My profile!
 
 
-<h1 align="center"> 👨‍💻 Who Am I </h1>
+<h2 align="center"> 👨‍💻 Who Am I </h2>
 <p align="center">
   <samp>I am a highly focused individual dedicated towards achieving tasks being assigned to me, in-time. I am good at 
 communication and collective bargaining. I like to meet people and interact with them.
@@ -38,7 +38,7 @@ communication and collective bargaining. I like to meet people and interact with
   </a>
 </p>
  
-<h2  align="center">📫 Reach me on</h2>
+<h1  align="center">📫 Reach me on</h1>
 <p align="center">
   <a target="_blank"href="https://https://www.linkedin.com/in/dabblu-kumar-singh-046189160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:singh212dab@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
