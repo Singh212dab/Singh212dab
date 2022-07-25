@@ -3,9 +3,9 @@
 
 <h2 align="center"> 👨‍💻 Who Am I </h2>
 <p align="center">
-  <samp>
+  <div>
   I am a highly focused individual dedicated towards achieving tasks being assigned to me, in-time. I am good at communication and collective bargaining. I like to meet people and interact with them.
-  </samp>
+  </div>
   <br> <br>
 
 - 🔭 I’m currently working on ServiceNow platform
