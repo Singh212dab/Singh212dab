@@ -69,7 +69,7 @@
 <a href="https://github.com/Singh212dab/github-readme-activity-graph"><img alt="Dabblu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Singh212dab&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
 </p>
-<br> <br>
+<br> 
 
 
 
