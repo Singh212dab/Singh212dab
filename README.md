@@ -44,6 +44,8 @@
   <a href="mailto:singh212dab@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Singh212dab" alt="Singh212dab" /></a> </p>
+
 
  ## Github Stats
 <details>
@@ -70,6 +72,7 @@
 </a>
 </p>
 <br> 
+
 
 
 
