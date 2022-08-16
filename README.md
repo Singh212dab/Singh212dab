@@ -44,8 +44,6 @@
   <a href="mailto:singh212dab@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Singh212dab" alt="Singh212dab" /></a> </p>
-
 
  ## Github Stats
 <details>
@@ -66,6 +64,7 @@
 5. 💪 Opened PR [#102](https://github.com/Singh212dab/readme-typing-svg/pull/102) in [Singh212dab/readme-typing-svg](https://github.com/Singh212dab/readme-typing-svg)
 <!--END_SECTION:activity
 </details>-->
+
 
 <p align="center">
 <a href="https://github.com/Singh212dab/github-readme-activity-graph"><img alt="Dabblu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Singh212dab&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
