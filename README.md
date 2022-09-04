@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , Welcome to My Github profile !!
 
 
-<h1 align="center"> 👨‍💻 Who Am I </h1>
+<h2 align="center"> 👨‍💻 Who Am I </h2>
 <p align="center">
   <span>
   I am a highly focused individual dedicated towards achieving tasks being assigned to me, in-time. I am good at communication and collective bargaining. I like to meet people and interact with them.
@@ -56,7 +56,7 @@
   <summary>Recent GitHub Activities</summary>
   <br/>
 
-<!--START_SECTION:activity-->
+<!--START_SECTION activity-->
 <!--1. 🎉 Merged PR [#33](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection/pull/33) in [Singh212dab/Minimalistic-Wallpaper-Collection](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection)
 2. 💪 Opened PR [#33](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection/pull/33) in [Singh212dab/Minimalistic-Wallpaper-Collection](https://github.com/Singh212dab/Minimalistic-Wallpaper-Collection)
 3. 🎉 Merged PR [#101](https://github.com/Singh212dab/readme-typing-svg/pull/101) in [Singh212dab/readme-typing-svg](https://github.com/Singh212dab/readme-typing-svg)
