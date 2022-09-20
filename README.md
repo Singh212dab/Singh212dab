@@ -26,18 +26,12 @@
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
  <br> <br>
 
- ## 🔥 Streak stats
+<h1 align="center"> 🔥 Streak stats </h1>
 
 <p align="center">
   <a href="https://github.com/DSingh212dab/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dabblu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Singh212dab&theme=monokai-metallian&hide_border=true"/>
   </a>
-</p>
- 
-<h1  align="center">📫 Reach me on</h1>
-<p align="center">
-  <a target="_blank"href="https://https://www.linkedin.com/in/dabblu-kumar-singh-046189160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:singh212dab@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -47,6 +41,7 @@
 <img align="center" width="47%" height="170" src="https://github-readme-stats.vercel.app/api?username=Singh212dab&theme=radical&show_icons=true"/> 
 <img align="center" width="47%" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh212dab&theme=radical&layout=compact"/>
 </details>
+
 
 <!--details>
   <summary>Recent GitHub Activities</summary>
@@ -65,6 +60,11 @@
 <p align="center">
 <a href="https://github.com/Singh212dab/github-readme-activity-graph"><img alt="Dabblu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Singh212dab&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
+</p>
+<h1 align="center">📫 Reach me on</h1>
+<p align="center">
+  <a target="_blank"href="https://https://www.linkedin.com/in/dabblu-kumar-singh-046189160/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:singh212dab@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br> 
 
