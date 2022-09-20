@@ -7,12 +7,8 @@
   I am a highly focused individual dedicated towards achieving tasks being assigned to me, in-time. I am good at communication and collective bargaining. I like to meet people and interact with them.
   </span>
   <br> <br>
-
-- 🔭 I’m currently working on ServiceNow platform
-- 🌱 I’m learning almost everything 🤣
-- 🤔 I’m here to learn and explore myself
-- 🥅 2022 Goal: Learn more about web3
-- ⚡ Hobbies: I love to read books and play Football/Badminton
+  
+    🔭 I’m currently working on ServiceNow platform || 🌱 I’m learning almost everything 🤣 || 🤔 I’m here to learn and explore myself || 🥅 2022 Goal: Learn more about web3 || ⚡ Hobbies: I love to read books and play Football/Badminton
   <br> <br>
 
 
