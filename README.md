@@ -26,7 +26,7 @@
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
  <br> <br>
 
-<h1 align="center"> 🔥 Streak stats </h1>
+<h1 align="center">🔥 Streak stats </h1>
 
 <p align="center">
   <a href="https://github.com/DSingh212dab/github-readme-streak-stats">
